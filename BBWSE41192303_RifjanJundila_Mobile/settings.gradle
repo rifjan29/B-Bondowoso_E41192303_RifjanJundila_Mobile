@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "B-BWS-E41192303_RifjanJundila_Mobile"
